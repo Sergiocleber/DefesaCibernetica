@@ -1,0 +1,3 @@
+Após o software se tornar público, será relizado teste de vulnerabilidades (pentest);
+O monitoramento será feito através de tickets e acompanhamento, com a equipe de operações;
+Todos os erros ou bugs reportados, serão encaminhados para o time responsável (equipe de desenvolvedores).

@@ -1,0 +1,3 @@
+Para a aplicação web será realizado com javascript em html (para facilitar a interação com usuário no browser);
+Para versão mobile será realizado em java, pois essa linguagem é mais usada para 
+aplicativos em dispositivos móveis.

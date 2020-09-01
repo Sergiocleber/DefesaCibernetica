@@ -1,0 +1,6 @@
+O sistema deve solicitar autenticação do usuário para utilzação;
+Há de estar disponivel o valor da viagem;
+Tem que informar a quantidade de lugares disponiveis no carro;
+Sistema pode ter a opção de viagem compartilhada.
+
+

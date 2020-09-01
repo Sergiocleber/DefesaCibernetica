@@ -1,0 +1,2 @@
+O software terá funcionamento web e em dispositivos mobile;
+Está hospedado na núvem.
